@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contactlist.Activity.ContactListActivity">
+    <item
+        android:id="@+id/personal_contact"
+        android:title="@string/personal_contact" />
+
+    <item
+        android:id="@+id/business_contact"
+        android:title="@string/business_contact" />
+</menu>
